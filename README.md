@@ -1,3 +1,4 @@
 # Knights-vs-Nerds-
 
-placeholder
+Knights vs Nerds FBLA video game archive
+
